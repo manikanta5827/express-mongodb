@@ -1,0 +1,30 @@
+{
+  "name": "express-mongodb",
+  "version": "1.0.0",
+  "description": "CLI tool to generate an Express.js && Mongodb boilerplate ",
+  "main": "manisha.sh",
+  "bin": {
+    "manisha": "./manisha.sh"
+  },
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manikanta5827/express-mongodb.git"
+  },
+  "keywords": [
+    "express",
+    "mongoose",
+    "boilerplate",
+    "generator",
+    "cli",
+    "mongodb"
+  ],
+  "author": "Manikanta Thummuri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manikanta5827/express-mongodb/issues"
+  },
+  "homepage": "https://github.com/manikanta5827/express-mongodb#readme"
+}
